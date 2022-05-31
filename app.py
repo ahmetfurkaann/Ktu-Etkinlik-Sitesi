@@ -30,11 +30,11 @@ def login_required_admin(f):
 
 
 app = Flask(__name__)
-app.secret_key = "erawebsiteforuni"
-app.config["MYSQL_HOST"] = "remotemysql.com"
-app.config["MYSQL_USER"] = "lyLolA9TzY"
-app.config["MYSQL_PASSWORD"] = "3qz1p2DBQw"
-app.config["MYSQL_DB"] = "lyLolA9TzY"
+app.secret_key = ""**********""
+app.config["MYSQL_HOST"] = ""**********"
+app.config["MYSQL_USER"] = "**********"
+app.config["MYSQL_PASSWORD"] = "**********"
+app.config["MYSQL_DB"] = "**********"
 app.config["MYSQL_CURSORCLASS"] = "DictCursor"
 app.config["UPLOAD_FOLDER"] = "static/assets/images/uploads"
 
