@@ -1,1 +1,13 @@
-#Readme
+#KARADENİZ TEKNİK ÜNİVERSİTESİ ETKİNLİK SİTESİ
+
+
+
+
+
+
+
+
+
+
+
+
