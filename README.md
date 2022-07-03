@@ -8,7 +8,7 @@ Web Programalama dersi kapsamında verilmiş olan ödevdir.
 - Üniversite Departman Yöneticileri için
 - Katılımcılar için
 
-###1) Yönetici
+### 1) Yönetici
 - Yönetici girişi aşağıdaki gibidir.
 [![image52fe69b7b860aaa9.png](https://s8.gifyu.com/images/image52fe69b7b860aaa9.png)](https://gifyu.com/image/SKwFh)
 
@@ -29,7 +29,7 @@ Web Programalama dersi kapsamında verilmiş olan ödevdir.
 [![image521817a3723a05ca.png](https://s8.gifyu.com/images/image521817a3723a05ca.png)](https://gifyu.com/image/SKwFF)
 
 
-###2) Kullanıcı
+### 2) Kullanıcı
 - Kullanıcı girişi aşağıdaki gibidir.
 [![imagefbd0534684d60992.png](https://s8.gifyu.com/images/imagefbd0534684d60992.png)](https://gifyu.com/image/SKwFa)
 
