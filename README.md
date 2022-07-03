@@ -28,6 +28,11 @@ Web Programalama dersi kapsamında verilmiş olan ödevdir.
 - Her bölümün yöneticisine özel mesajlar atabiliyorsunuz ve her yönetici sadece kendisine yollanan mesajları görmektedir.
 [![image521817a3723a05ca.png](https://s8.gifyu.com/images/image521817a3723a05ca.png)](https://gifyu.com/image/SKwFF)
 
+- Katıldığınız etkinliklerin sertifikalarını aşağıdaki sitede görüntüleyebilirsiniz.
+[![image733c3f39d5351043.png](https://s8.gifyu.com/images/image733c3f39d5351043.png)](https://gifyu.com/image/SKwZC)
+
+- Sertifikanızı görüntülediğiniz ve yazdırabildiğiniz site aşağıdaki gibidir.
+[![imageec55ea0bb3917ce4.png](https://s8.gifyu.com/images/imageec55ea0bb3917ce4.png)](https://gifyu.com/image/SKwZU)
 
 ### 2) Kullanıcı
 - Kullanıcı girişi aşağıdaki gibidir.
