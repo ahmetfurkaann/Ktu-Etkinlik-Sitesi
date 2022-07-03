@@ -21,6 +21,10 @@ Web Programalama dersi kapsamında verilmiş olan ödevdir.
 - Etkinlikleri düzenleyecek firmaları ve bilgilerini Firma Ekle kısmında gerçekleşecektir.
 [![imageceed0efbf8f96da1.png](https://s8.gifyu.com/images/imageceed0efbf8f96da1.png)](https://gifyu.com/image/SKwF0)
 
+- Etkinliklere katılanları görüntülemek için ise ilgili etkinliğin detaylar kısmına girdikten sonra Katılanları Görüntüle butonu sayesinde görüntüleyebilirsiniz. İsterseniz bu listeyi de yazdırabilirsiniz.
+[![imagea1067f73a894b6b3.png](https://s8.gifyu.com/images/imagea1067f73a894b6b3.png)](https://gifyu.com/image/SKwZK)
+[![image1791ddb09bd5894c.png](https://s8.gifyu.com/images/image1791ddb09bd5894c.png)](https://gifyu.com/image/SKwZ3)
+
 - Her bölümün yöneticisine özel mesajlar atabiliyorsunuz ve her yönetici sadece kendisine yollanan mesajları görmektedir.
 [![image521817a3723a05ca.png](https://s8.gifyu.com/images/image521817a3723a05ca.png)](https://gifyu.com/image/SKwFF)
 
@@ -44,7 +48,6 @@ Web Programalama dersi kapsamında verilmiş olan ödevdir.
 
 - Üniversitede etkinlik verecek firmaları öğrenmek ve detaylı bilgi almak için Firmalar kısmına tıklamanız yeterlidir.
 [![image14fb75b9093ebb0f.png](https://s8.gifyu.com/images/image14fb75b9093ebb0f.png)](https://gifyu.com/image/SKwVy)
-
 [![image8fe98639fda0eb78.png](https://s8.gifyu.com/images/image8fe98639fda0eb78.png)](https://gifyu.com/image/SKwZS)
 
 - Herhangi bir sorunuz/öneriniz olduğunda sol altta yer alan Bize Ulaşın butonu ile ilgili departman yöneticisine mesajınızı yollayabilirsiniz.
